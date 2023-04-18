@@ -15,7 +15,7 @@
 
 Given maximized profit at Q*, what are TFC(Q*), TVC(Q*)?
 
-- $TC(Q) = \frac{125Q^3}{3} + 1000$, Price is $2000 per Q
+- $TC(Q) = \frac{125Q^3}{3} + 1000$, Price is \$2000 per Q
 - So $TVC = 125Q^3/3$, $TFC = 1000$
 - $\Pi (Q) = TR(Q) - TC(Q) = 2000 \cdot Q - 125Q^3 - 1000$
 - Maximize profit: $\frac{\delta \Pi (Q)}{\delta (Q)} = 0 = 2000 - 125Q^2
